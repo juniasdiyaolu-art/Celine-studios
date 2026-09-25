@@ -1,0 +1,6 @@
+{
+  "name": "Celine Studio",
+  "description": "Premium Nigerian fashion house and business management platform specializing in bespoke custom outfits and ready-to-wear collections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
